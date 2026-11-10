@@ -1,15 +1,6 @@
 # 🛠️ Scripts Tampermonkey pour UNESS
 
-Ce dépôt regroupe une collection de scripts utilisateurs (**UserScripts**) conçus pour optimiser, personnaliser et améliorer l'expérience d'utilisation sur la plateforme d'entraînement **[UNESS Annales](https://entrainement.uness.fr/)**.
-
----
-
-## 📖 Sommaire
-
-- [Tutoriel d'installation](#-tutoriel-dinstallation)
-- [Liste des scripts](#-liste-des-scripts)
-  - [1. UNESS - Calculateur de Moyenne Pondérée](#1-uness---calculateur-de-moyenne-pondérée)
-- [Contributions](#-contributions)
+Ce dépôt regroupe une collection de scripts utilisateurs perso (**UserScripts**) conçus pour optimiser, personnaliser et améliorer l'expérience d'utilisation sur la plateforme d'entraînement **[UNESS Annales](https://entrainement.uness.fr/)**.
 
 ---
 
@@ -52,13 +43,9 @@ Sur UNESS, les épreuves se composent de plusieurs dossiers/quiz (SQI, mDP, KFP)
 
 ---
 
-### 💡 Idées de scripts futurs
-- 🌙 **Mode Sombre (Dark Theme)** pour réviser la nuit sans se fatiguer les yeux.
-- ⌨️ **Raccourcis Clavier** pour naviguer plus rapidement entre les questions.
-- 🧹 **Nettoyeur d'interface** pour masquer les éléments superflus de la plateforme pendant les sessions d'entraînement.
+### Scripts futurs plus ou moins proche
+- Copier l'interface des EDN pour faire une annale
+- Synthèse des erreurs automatiques
 
 ---
 
-## 🤝 Contributions
-
-Les propositions d'amélioration, corrections de bugs ou suggestions de nouveaux scripts sont les bienvenues ! N'hésitez pas à ouvrir une *Issue* ou à faire une *Pull Request*.
